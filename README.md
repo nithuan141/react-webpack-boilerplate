@@ -15,4 +15,4 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-This will genretae the minified javascript file to dist folder.
+This will genretae the minified javascript file to dist folder using <strong>webpack</strong>.
