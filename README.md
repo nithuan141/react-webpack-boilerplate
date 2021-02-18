@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is some boiler plate code to start react application with webpack.
+Boilerplate code for starting a react project with web pack and basic react essential node modules.
+
+You can clone/download the repository and then run npm install to install the dependencies
+
+### `npm install`
 
 ## Available Scripts
 
@@ -15,4 +18,4 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-This will generate the transpiled and minified javascript files to dist folder using <strong>webpack</strong>.
+This will generate the transpiled and minified javascript files (production build) to dist folder using <strong>webpack</strong>.
