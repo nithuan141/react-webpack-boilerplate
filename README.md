@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/nithuan141/react-webpack-boilerplate/actions/workflows/node.js.yml/badge.svg)](https://github.com/nithuan141/react-webpack-boilerplate/actions/workflows/node.js.yml)
+
 Boilerplate code for starting a react project with web pack and basic react essential node modules.
 
 You can clone/download the repository and then run npm install to install the dependencies
